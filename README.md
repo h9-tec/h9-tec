@@ -1,7 +1,7 @@
 # 💻 Hesham Haroon - AI Engineer
 
 <div align="center">
-  <img src="https://github.com/h9-tec/h9-tec/raw/main/assets/github_header_banner.png" alt="Terminal Header" width="60%"/>
+  <img src="https://github.com/h9-tec/h9-tec/raw/main/assets/github_header_banner.png" alt="Terminal Header" width="50%"/>
 </div>
 
 ```bash
@@ -35,7 +35,7 @@ $ git log --oneline --graph --all
 ## 📊 Performance Metrics
 
 <div align="center">
-  <img src="https://github.com/h9-tec/h9-tec/raw/main/assets/skills_visualization.png" alt="Skills Loading" width="30%"/>
+  <img src="https://github.com/h9-tec/h9-tec/raw/main/assets/skills_visualization.png" alt="Skills Loading" width="70%"/>
 </div>
 
 ```bash
@@ -104,7 +104,7 @@ print(f"Currently working on: {hesham.current_focus()}")
 ## 📈 Career Timeline
 
 <div align="center">
-  <img src="https://github.com/h9-tec/h9-tec/raw/main/assets/git_commit_timeline.png" alt="Career Git Timeline" width="30%"/>
+  <img src="https://github.com/h9-tec/h9-tec/raw/main/assets/git_commit_timeline.png" alt="Career Git Timeline" width="70%"/>
 </div>
 
 ```bash
