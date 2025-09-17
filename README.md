@@ -1,7 +1,7 @@
 # 💻 Hesham Haroon - AI Engineer
 
 <div align="center">
-  <img src="https://github.com/heshamharoon/heshamharoon/raw/main/assets/github_header_banner.png" alt="Terminal Header" width="100%"/>
+  <img src="https://github.com/h9-tec/h9-tec/raw/main/assets/github_header_banner.png" alt="Terminal Header" width="100%"/>
 </div>
 
 ```bash
@@ -35,7 +35,7 @@ $ git log --oneline --graph --all
 ## 📊 Performance Metrics
 
 <div align="center">
-  <img src="https://github.com/heshamharoon/heshamharoon/raw/main/assets/skills_visualization.png" alt="Skills Loading" width="80%"/>
+  <img src="https://github.com/h9-tec/h9-tec/raw/main/assets/skills_visualization.png" alt="Skills Loading" width="80%"/>
 </div>
 
 ```bash
@@ -104,7 +104,7 @@ print(f"Currently working on: {hesham.current_focus()}")
 ## 📈 Career Timeline
 
 <div align="center">
-  <img src="https://github.com/heshamharoon/heshamharoon/raw/main/assets/git_commit_timeline.png" alt="Career Git Timeline" width="90%"/>
+  <img src="https://github.com/h9-tec/h9-tec/raw/main/assets/git_commit_timeline.png" alt="Career Git Timeline" width="90%"/>
 </div>
 
 ```bash
@@ -259,11 +259,11 @@ Ready for new challenges! 🚀
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=heshamharoon&show_icons=true&theme=dark&bg_color=0d1117&border_color=30363d&icon_color=58a6ff&title_color=58a6ff&text_color=c9d1d9" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=h9-tec&show_icons=true&theme=dark&bg_color=0d1117&border_color=30363d&icon_color=58a6ff&title_color=58a6ff&text_color=c9d1d9" alt="GitHub Stats"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heshamharoon&layout=compact&theme=dark&bg_color=0d1117&border_color=30363d&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=h9-tec&layout=compact&theme=dark&bg_color=0d1117&border_color=30363d&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages"/>
 </div>
 
 ---
